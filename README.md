@@ -1,4 +1,4 @@
-- ⚡ Lucas Lomeu, 24 years.
+- ⚡ Lucas Lomeu, 25 years.
 - 🔭 Frontend Developer and graduated in Civil Engineering.
-- 🌱 I’m currently working in Gama Ensino as a Frontend Developer.
+- 🌱 I’m currently working in Gama Ensino as a Full Stack Developer.
 - 📫 Reach me on lucaslomeugomes@gmail.com.
