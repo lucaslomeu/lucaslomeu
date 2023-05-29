@@ -1,4 +1,4 @@
 - ⚡ Lucas Lomeu, 25 years.
 - 🔭 I’m currently working in Gama Ensino as a Full Stack Developer.
 - 🌱 I’m currently learning Angular and Java.
-- 📫 Reach me on lucaslomeugomes@gmail.com.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lucaslomeu/) or lucaslomeugomes@gmail.com.
