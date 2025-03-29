@@ -2,7 +2,7 @@
 
 I'm Lucas, a Full Stack Developer passionate about building applications that simplify everyday life. I love learning, solving problems, and turning ideas into useful digital solutions.
 
----
+
 
 ## 🚀 About me
 
@@ -11,7 +11,7 @@ I'm Lucas, a Full Stack Developer passionate about building applications that si
 🎓 Civil Engineering graduate from UNIVALE  
 📚 Currently focused on sharpening my skills in Java (Spring Boot) and Cloud technologies, especially AWS    
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -29,7 +29,7 @@ I'm Lucas, a Full Stack Developer passionate about building applications that si
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
+
 
 ## 🌐 Let's connect!
 
