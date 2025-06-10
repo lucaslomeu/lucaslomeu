@@ -8,7 +8,7 @@ I'm Lucas, a Full Stack Developer passionate about building applications that si
 
 🏙️ Based in Governador Valadares - MG, Brazil  
 🎓 Civil Engineering graduate from UNIVALE  
-📚 Currently focused on sharpening my skills in Java (Spring Boot) and Cloud technologies, especially AWS    
+📚 Currently dedicated to learning and sharpening my skills in Go  
 
 
 
