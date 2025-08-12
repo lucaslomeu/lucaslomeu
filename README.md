@@ -1,8 +1,3 @@
-### About me
-* Based in Governador Valadares - MG, Brazil  
-* Civil Engineering graduate from UNIVALE  
-* Currently learning Golang
-
 <a href="https://www.linkedin.com/in/lucaslomeu/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
